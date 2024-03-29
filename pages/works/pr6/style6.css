@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(223, 175, 207, 0.666) ;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    color: rgb(172, 19, 39);
+    background-color: rgb(110, 116, 117);
+}
+content{
+    background-color: rgb(110, 116, 117);
+}
+nav{
+    color: rgb(113, 24, 197);
+}
+h1{
+    background-color: rgb(101, 55, 146);
+}
