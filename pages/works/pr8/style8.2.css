@@ -1,0 +1,62 @@
+@font-face {
+    font-family: RobotoRegular;
+    src: url("../pr10/font/Roboto/Roboto-Regular.ttf");
+}.bloc1{
+    width: 1600px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 20px;
+}
+.bloc2{
+    width: 1600px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 20px; 
+}
+.bloc3{
+    width: 1600px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 20px;
+}
+div h3{
+    margin-left: 10px;
+    font-family: RobotoRegular;
+}
+div p{
+    margin-left: 10px;
+    font-family: RobotoRegular;
+    line-height: 40px;
+    
+}
+div a{
+    margin: 10px;
+    float: right;
+    font-family: RobotoRegular;
+}
+.foto1{
+    background: url(../../../img/1.png);
+    width: 210px;
+    height: 120px;
+    margin: 10px;
+    float: left;
+    border: 1px solid black;
+    
+}
+.foto2{
+    background: url(../../../img/2.png);
+    width: 210px;
+    height: 120px;
+    margin: 10px;
+    border: 1px solid black;
+    float: left;
+    
+}
+.foto3{
+    background: url(../../../img/3.png);
+    width: 210px;
+    height: 120px;
+    margin: 10px;
+    float: left;
+    border: 1px solid black;
+}

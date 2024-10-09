@@ -1,0 +1,58 @@
+.line li {
+    display: inline-block;
+    background: pink;
+    padding: 10px;
+    margin: 2px;
+}
+.links a{
+    border: 1px;
+display:block;
+background: blue;
+width: 200px;
+padding: 5px;
+margin-bottom: 10px;
+color: aliceblue;
+}
+.blocks div{
+    display: inline;
+    background: red;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+.blocks{
+    margin: 20px;
+}
+.blocks .non {
+    display: none;
+}
+.links-markers a{
+    display: list-item;
+    background: black;
+    color: white;
+    padding: 5px;
+    width: 200px;
+}
+.post1 .image {
+    background: url("../../../img/weather-sun.jpg");
+    width: 150px;
+    height: 110px;
+    background-size: cover;
+    border:2px dashed red; 
+    float: left;
+}
+
+.post2 .image{
+    background: url("../../../img/weather-blizzard.jpg");
+    width: 150px;
+    height: 110px;
+    background-size: cover;
+    float: right;
+    border:2px dashed red;
+}
+.post1{
+    background: #930303;
+}
+.post2{
+    background: #930303;
+}

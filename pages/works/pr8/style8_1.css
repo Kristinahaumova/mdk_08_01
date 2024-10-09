@@ -1,0 +1,59 @@
+ul li{
+    display: inline-block;
+}
+.tr{
+    width: 60%;
+    margin: auto;
+}
+main{
+    border: 1px solid rgb(62, 138, 81);
+    padding: 10px;
+}
+main ul{
+    background-color: rgb(105, 228, 105);
+}
+main li, main li a{
+    display: inline-block;
+}
+main li a{
+    text-decoration:double;
+    color: aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 20px;
+}
+main li a:hover{
+    background-color: aliceblue;
+    color: rgb(112, 209, 136);
+}
+*{
+    color: rgb(112, 228, 156);
+}
+h2{
+    color: rgb(57, 151, 128);
+    text-align: center;
+}
+h3{
+    color: rgb(57, 151, 128);
+    text-align: center;
+}
+footer nav{
+    text-align: center;
+    margin: 20px;
+}
+footer li a{
+    text-decoration: none;
+    color: rgb(43, 174, 91);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 13px;
+    padding: 0px 10px;
+}
+footer li a:hover{
+    text-decoration:none;
+    background-color: rgb(112, 228, 156);
+    color: black;
+}
+a {
+    text-decoration: line-through;
+}
