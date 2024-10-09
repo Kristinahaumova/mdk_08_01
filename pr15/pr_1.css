@@ -1,0 +1,47 @@
+
+.main {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+    grid-template-rows: repeat(3,200px);
+    grid-gap: 10px;
+    height: 300px;
+    width: 420px;
+    justify-content: center;
+}
+img {
+    width: 400px;
+    height: 200px;
+}
+.photo1 {
+    grid-row: span 7;
+    width: 300px;
+    height: 200px;
+}
+.photo2 {
+    width: 400px;
+}
+.photo3 {
+    width: 400px;
+}
+.photo4 {
+    width: 400px;
+}
+.photo5 {
+    width: 400px;
+}
+.photo1 img {
+    width: 300px;
+    height: 620px;
+}
+.p {
+
+    text-align: center;
+    width: 700px;
+    font-family: Arial;
+}
+body h3 {
+    text-align: center;
+    margin-top: 110px;
+    font-size: 50px;
+}
